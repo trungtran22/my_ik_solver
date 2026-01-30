@@ -1,4 +1,4 @@
-# ik_solver_ur5
+# ik_solver for universal robot
 ## Inverse Kinematics Solver and Motion Planning RRT for UR5
 ### Test on ROS 1 Noetic - Python 3
 **IK idea: Kinematics Decoupling**
